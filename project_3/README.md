@@ -4,3 +4,6 @@ This task requires to conduct an analysis of different types of real estate in S
 
 ## Research objectives
 Determine the market value of real estate and typical parameters of apartments.
+
+### Technologies:
+Matplotlib, Seaborn, Pandas
