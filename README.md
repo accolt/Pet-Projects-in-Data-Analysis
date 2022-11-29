@@ -5,3 +5,4 @@ This repository contains different projects on various Data Analysis tasks that 
 | :---------------------- | :---------------------- | :---------------------- |
 | [01. Music of big cities](project_1)| Data analysis of the Yandex.Music service. Evaluate and compare the behavior and preferences in music of users from Moscow and St. Petersburg| *pandas* |
 | [02. Borrower reliability study](project_2)| On the basis of statistics on the solvency of clients, to investigate whether the marital status and the number of children of the client affect the fact of repaying the loan on time.| *pandas* |
+|[03. Real estate market analysis](project_3)| Using data from the Yandex.Realty service, determine the factors affecting the cost of apartments in St. Petersburg| *Matplotlib, Pandas*|
