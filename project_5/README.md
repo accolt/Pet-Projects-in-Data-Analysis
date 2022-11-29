@@ -7,3 +7,4 @@ Historical game sales data, user and expert ratings, genres and platforms (such 
 It is necessary to identify patterns that determine the success of the game. This will allow you to bid on a potentially popular product and plan advertising campaigns.
 
 ### Technologies:
+Matplotlib, NumPy, SciPy, Pandas, Seaborn, descriptive statistics, testing of statistical hypotheses
