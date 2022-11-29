@@ -2,7 +2,7 @@
 
 ## Data analysis of the Yandex.Music service
 
-### This project compiles of the following tasks:
+### Research objectives:
 
 - Make a comparrison of musical preferences of Yandex.Music users who live in Moscow and Saint-Petersburg.
 - Compare listenings on Mondays, Wednesdays and Fridays in the cities.
