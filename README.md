@@ -3,7 +3,4 @@ This repository contains different projects on various Data Analysis tasks that 
 
 | Project name            | Main tasks              | Technologies            | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Music of big cities](project_1)| Bla bla bla     | *pandas* |
-
-## Technologies:
-Python, PostgreSQL, pandas, matplotlib, seaborn, numpy, Tableau, hypothesis formulation and testing, automatization in dashboards creation.
+| [01. Music of big cities](project_1)| Data analysis of the Yandex.Music service. Evaluate and compare the behavior and preferences in music of users from Moscow and St. Petersburg| *pandas* |
