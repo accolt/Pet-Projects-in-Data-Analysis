@@ -1,7 +1,12 @@
-# This project compiles of the following tasks:
+# 01. Music of the big cities
+
+## Data analysis of the Yandex.Music service
+
+### This project compiles of the following tasks:
 
 - Make a comparrison of musical preferences of Yandex.Music users who live in Moscow and Saint-Petersburg.
 - Compare listenings on Mondays, Wednesdays and Fridays in the cities.
 - Compare genres that are listened on Monday mornings and Friday evenings in Saint-Petersburg and Moscow.
 
-The project was done by the means of Python and Pandas library
+### Technologies:
+Python and Pandas library
