@@ -3,7 +3,7 @@ This repository contains different projects on various Data Analysis tasks that 
 
 | Project name            | Main tasks              | Technologies            | 
 | :---------------------- | :---------------------- | :---------------------- |
-
+| [Music of big cities](project_1)| Bla bla bla     | *pandas* |
 
 ## Technologies:
 Python, PostgreSQL, pandas, matplotlib, seaborn, numpy, Tableau, hypothesis formulation and testing, automatization in dashboards creation.
