@@ -9,3 +9,6 @@ Four hypotheticals need to be checked:
 - Is there a relationship between marital status and loan repayment on time?
 - Is there a relationship between income level and loan repayment on time?
 - How do the different purposes of the loan affect repayment on time?
+
+### Technologies
+Pandas, Seaborn
