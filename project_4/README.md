@@ -7,3 +7,4 @@ It is necessary to make a preliminary analysis of tariffs on a small sample of c
 It is necessary to analyze the behavior of customers and draw a conclusion - which tariff is better.
 
 ### Technologies:
+Matplotlib, NumPy, SciPy, Pandas, Seaborn, descriptive statistics, testing of statistical hypotheses
