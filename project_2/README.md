@@ -14,7 +14,7 @@ Four hypotheticals need to be checked:
 
 - The results of the analysis show that the most frequently delayed payments are those people who took a loan for car transactions;
 - The best repayment rate is for loans related to real estate;
-- Loans taken out for education and automobiles are paid back in about the same way.
+- Loans taken out for education and automobiles are paid back in about the same way.  
 Based on the conducted analysis we can draw up a portrait of ideal client - *childless, widowed or divorced people who take credit on the real estate and with income from 30 to 50 thousand rubles*. Also we can draw the opposite portrait of an undesirable customer - *with four children, unmarried, car loan and with an income of 50 to 200 thousand*
 
 ### Technologies:
