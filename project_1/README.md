@@ -11,6 +11,8 @@
 ## Conclusion
 
 - Moscow citizens are more active on Mondays and Fridays whereas in Saint-Petersburg they are on Wednesdays;
+- Users listen to the similar music at the beginning and at the end of the week in both cities;
+- The difference between Moscow and St. Petersburg is not noticable;
 - Pop music is the most popular genre in Moscow. Rap is equally popular in Moscow and St. Petersburg.
 
 ### Technologies:
