@@ -10,5 +10,5 @@ Four hypotheticals need to be checked:
 - Is there a relationship between income level and loan repayment on time?
 - How do the different purposes of the loan affect repayment on time?
 
-### Technologies
+### Technologies:
 Pandas, Seaborn
