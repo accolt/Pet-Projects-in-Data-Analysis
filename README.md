@@ -1,4 +1,4 @@
-# Yandex_Practicum_Projects
+# Yandex Practicum Projects
 This repository contains different projects on various Data Analysis tasks that were performed during one of the Yandex Practicum course.
 
 | Project name            | Main tasks              | Technologies            | 
