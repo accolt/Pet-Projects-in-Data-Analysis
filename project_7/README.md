@@ -1,5 +1,5 @@
 # AB test to increase e-commerce store revenues
-A large online retailer has prepared a list of hypotheses to increase revenue.
+Using online store data prioritize hypotheses, evaluate the results of A/B testing using different methods.
 # Purpose of the study
 1) Prioritize the hypotheses put forward
 
