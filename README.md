@@ -1,5 +1,5 @@
-# Yandex Practicum Projects
-This repository contains different projects on various Data Analysis tasks that were performed during one of the Yandex Practicum course.
+# Data Analysis Projects
+This repository contains projects on various Data Analysis tasks that were performed for companies in different spheres of business such as banking, real estate, telecom, computer games, e-commerce and others.
 
 | Project name            | Main tasks              | Technologies            | 
 | :---------------------- | :---------------------- | :---------------------- |
